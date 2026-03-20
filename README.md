@@ -148,7 +148,7 @@ Rather than binary 0/1 output, SENTRY produces a continuous **anomaly risk score
 ### Install dependencies
 
 ```bash
-git clone https://github.com/yourusername/sentry-anomaly-detection.git
+git clone https://github.com/tanishipss/sentry-anomaly-detection.git
 cd sentry-anomaly-detection
 
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm shap imbalanced-learn joblib pyarrow jupyter
