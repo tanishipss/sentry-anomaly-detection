@@ -229,7 +229,7 @@ Click **Save Version → Save & Run All (Commit)** to save the executed notebook
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sentry-anomaly-detection.git
+git clone https://github.com/tanishipss/sentry-anomaly-detection.git
 cd sentry-anomaly-detection
 ```
 
